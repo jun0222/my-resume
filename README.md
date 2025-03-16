@@ -40,41 +40,14 @@ AWS（ECS, Lambda, ALB, S3）を利用した環境での開発経験も豊富だ
 | **プログラミング言語** | TypeScript               | 3~4年         |
 |                      | JavaScript               | 5~6年         |
 |                      | Ruby                     | 2~3年         |
-|                      | PHP                      | ~1年         |
-|                      | Python                     | ~1年         |
 | **フレームワーク**    | React                    | 3~4年         |
 |                      | Next.js                  | 3~4年         |
-|                      | Node.js                  | 3~4年         |
-|                      | Express                  | 3~4年         |
+|                      | Express                  | 1~2年         |
+|                      | Node.js                  | 1~2年         |
 |                      | Ruby on Rails            | 2~3年         |
-|                      | Vue                      | ~1年         |
-|                      | Nuxt.js                  | ~1年         |
-|                      | Hono                     | ~1年         |
-| **クラウド**         | AWS ECS                  | 1~2年         |
-|                      | AWS EKS                  | ~1年         |
-|                      | AWS Lambda               | 1~2年         |
-|                      | AWS ALB                  | 3~4年         |
-|                      | AWS S3                   | 3~4年         |
-|                      | AWS CloudFront           | 2~3年         |
-|                      | AWS CodePipeline         | 1~2年         |
+| **クラウド**         | AWS                  | 3~4年         |
 | **データベース**     | MySQL                    | 2~3年         |
 |                      | PostgreSQL               | 2~3年         |
-|                      | DynamoDB                 | 1~2年         |
-| **テスト**          | Jest                     | 1~2年         |
-|                      | RSpec                    | ~1年         |
-|                      | MSW                      | ~1年         |
-| **CI/CD**           | GitHub Actions           | 1~2年         |
-|                      | AWS CodePipeline         | 1~2年         |
-|                      | CircleCI                 | ~1年         |
-| **認証・セキュリティ** | Auth0                    | ~1年         |
-|                      | NextAuth.js              | ~1年         |
-|                      | devise_token_auth        | ~1年         |
-|                      | JWT                      | 1~2年         |
-| **開発環境**         | Linux                    | 5~6年         |
-|                      | MacOS                    | 3~4年         |
-|                      | Windows                  | 1~2年         |
-|                      | Nginx                    | 2~3年         |
-|                      | Apache                   | 1~2年         |
 
 
 ## 1. フードデリバリーサービス 保守開発  
