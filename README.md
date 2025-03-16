@@ -37,8 +37,8 @@ AWSのサーバレス技術、ECSなどのコンテナ技術、ALBやEC2など�
 
 ## 業務外活動
 
-- 業務で利用する技術の検証環境を個人のGitHubリポジトリ、AWSアカウント内に構築し、新しい技術の習得に努めています。
-- 直近ではOSSのコードリーディングそ始めたり、1件ですが[textlint-ja](https://github.com/textlint-ja/textlint-rule-preset-JTF-style/pull/147)にコントリビュートしたりしています。
+- 業務で利用する技術の検証環境を個人のGitHubリポジトリ、AWSアカウント内に構築し、素早くチームや事業に貢献できるように努めています。
+- 直近ではOSSのコードリーディングを始めたり、1件ですが[textlint-ja](https://github.com/textlint-ja/textlint-rule-preset-JTF-style/pull/147)というOSSにコントリビュートしたりしています。
 
 ## ■ 言語経験・スキル
 
