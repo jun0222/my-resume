@@ -38,15 +38,15 @@ AWSのサーバーレス技術（Lambda, API Gateway）、コンテナ技術（E
 
 | **カテゴリ**         | **技術**                 | **経験年数** |
 |----------------------|-------------------------|-------------|
-| **言語**             | TypeScript               | 4年         |
-|                      | JavaScript               | 6年         |
-|                      | Ruby                     | 3年         |
-| **フレームワーク**    | React                    | 4年         |
-|                      | Next.js                  | 4年         |
-|                      | Ruby on Rails            | 3年         |
-| **クラウド**         | AWS                      | 4年         |
-| **データベース**     | MySQL                    | 3年         |
-|                      | PostgreSQL               | 3年         |
+| **言語**             | TypeScript               | 3年         |
+|                      | JavaScript               | 5年         |
+|                      | Ruby                     | 2年         |
+| **フレームワーク**    | React                    | 3年         |
+|                      | Next.js                  | 3年         |
+|                      | Ruby on Rails            | 2年         |
+| **クラウド**         | AWS                      | 3年         |
+| **データベース**     | MySQL                    | 2年         |
+|                      | PostgreSQL               | 2年         |
 
 
 ## 1. フードデリバリーサービス 保守開発
