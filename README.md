@@ -13,10 +13,7 @@
 ## 保有スキル
 - JavaScript / TypeScript + React でのフロントエンド開発・設計
 - Ruby on Rails でのサーバーサイド開発
-- レガシーコードからモダンなフロントエンドへのリファクタリング
 - AWS サーバーレス技術を活用したインフラ構築・運用
-- デプロイパイプラインの自動化と継続的インテグレーション
-- アジャイル開発プロセスの実践とタスク管理
 
 ## 技術スタック
 
@@ -47,7 +44,7 @@
 **役割：**
 - フルスタックエンジニア
 - フロントエンド・バックエンド両面での開発
-- AWS基盤構築、リリース時のエラー調査
+- スケジューラ機能を持つバッチ処理の設計・実装
 
 **プロジェクト詳細：**
 - SendGridとAWS Lambdaを組み合わせたメール自動配信システム実装
@@ -85,7 +82,7 @@
 **利用技術：**
 - React、Storybook
 - Ruby on Rails、RuboCop、RSpec
-- Docker、AWS（SES、ECS、ALB、Auth0）
+- Docker、AWS（ECS、ALB、Auth0）
 - JavaScript、Ruby、MySQL
 
 ## 業務外活動
