@@ -6,7 +6,7 @@
 | -------- | -------------------------------------------------------------- |
 | 氏名     |                                                                |
 | 生年月日 |                                                                |
-| Twitter  |                                                                |
+| Twitter  | [@dev63_twi](x.com/dev63_twi)                                  |
 | Qiita    | [@dev63](https://qiita.com/dev63)                              |
 | Zenn     | [dev63](https://zenn.dev/dev63)                                |
 | blog     | [https://dev63.hatenablog.com/](https://dev63.hatenablog.com/) |
@@ -40,7 +40,7 @@
 
 ### フリーランス（2023/04〜現在）
 
-#### 大手小売店 社内SE
+#### 大手小売店 社内 SE
 
 大手小売サービスの社内 SE 向けジョブ実行システムの AWS 移行プロジェクト。
 
