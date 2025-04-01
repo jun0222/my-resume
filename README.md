@@ -6,7 +6,7 @@
 | -------- | -------------------------------------------------------------- |
 | 氏名     |                                                                |
 | 生年月日 |                                                                |
-| Twitter  | [@dev63_twi](x.com/dev63_twi)                                  |
+| Twitter  | [@dev63_twi](https://x.com/dev63_twi)                                  |
 | Qiita    | [@dev63](https://qiita.com/dev63)                              |
 | Zenn     | [dev63](https://zenn.dev/dev63)                                |
 | blog     | [https://dev63.hatenablog.com/](https://dev63.hatenablog.com/) |
