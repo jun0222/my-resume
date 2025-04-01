@@ -98,7 +98,7 @@
 - Terraform、Docker、AWS（ECS、ALB、Lambda、CodeCommit、CodePipeline、CodeDeploy、App Runner）
 - TypeScript
 
-### 正社員（2019/05〜2020/02）
+### 正社員（2019/05〜2023/03）
 
 #### 中古車販売サービス 新規開発
 
