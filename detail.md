@@ -29,7 +29,7 @@
 | **チーム規模** | 5人 |
 | **プロジェクト概要** | オンプレミスで運用されていたジョブ実行サービスの AWS 環境への移行設計。StepFunctions によるジョブ実行フローの設計・プロトタイプ実装を担当。 |
 | **担当フェーズ／役割** | • オンプレミスから AWS への移行に伴う要件定義・基本設計<br>• EventBridge を契機とした Step Functions・Lambda によるジョブ実行フローの設計およびプロトタイプ実装（S3 連携含む）<br>• サブリーダーとしての WBS 作成、進捗管理、成果物の動作レビュー<br>• ジョブ設定値の GitHub 化によるドキュメント整備、属人化排除、工数削減<br><br>EventBridge を起点とした AWS 上のジョブ実行フロー設計・実装を主導し、移行設計・進捗管理・ドキュメント整備にも貢献しました。 |
-| **利用技術** | **サーバ/OS:** Windows、AWS、Linux、Apache <br> **DB:** PostgreSQL、SQL Server<br>**クラウド／インフラ:** AWS（Lambda、Step Functions、S3、DynamoDB、ECS）<br>**コンテナ:** Docker（ECS Fargate）、bash（依存性を抑えたジョブ処理）<br>**バック:** Python |
+| **利用技術** | **サーバ/OS:** Windows、AWS、Linux、Apache <br> **DB:** PostgreSQL、SQL Server<br>**クラウド／インフラ:** AWS（Lambda、Step Functions、S3、DynamoDB、ECS）<br>**コンテナ:** Docker（ECS Fargate）、bash（依存性を抑えたジョブ処理）<br>**バックエンド:** Python |
 
 ## 2. システム開発会社 リニューアル
 
@@ -52,7 +52,7 @@
 | **チーム規模** | 6人 |
 | **プロジェクト概要** | フードデリバリーサービスの既存システム保守・改善を担当。見積りから要件定義、設計、実装、リリース、障害対応まで一貫して推進。 |
 | **担当フェーズ／役割** | • 新規開発タスクの工数見積り・要件定義<br>• 技術調査（Hono、OpenAPI generator）および設計書・コードレビュー<br>• タスク管理、チーム間・他ベンダーとの調整<br>• 障害発生時のトラブルシューティングとビジネスサイドへの報告<br><br>参画後、メンバーが対応に時間を要していたバグの解決支援、機能リリース、会議運営、タスク割り振りを実施。散在していたドキュメントや開発ツールを整備し、定例会議を導入して各メンバーの状況把握と改善活動を強化しました。 |
-| **利用技術** | **サーバ/OS:** MacOS、AWS、Linux、Nginx<br> **DB:** MySQL<br> **フロント／バック:** React、Next.js、Vue、Nuxt.js、ReactNative、Node.js、Hono、GraphQL<br> **その他:** Jest、OpenAPI generator、Docker、ALB、EKS、ECR、S3<br> **言語:** HTML、CSS、TypeScript |
+| **利用技術** | **サーバ/OS:** MacOS、AWS、Linux、Nginx<br> **DB:** MySQL<br> **フロントエンド／バックエンド:** React、Next.js、Vue、Nuxt.js、ReactNative、Node.js、Hono、GraphQL<br> **その他:** Jest、OpenAPI generator、Docker、ALB、EKS、ECR、S3<br> **言語:** HTML、CSS、TypeScript |
 
 ---
 
@@ -66,7 +66,7 @@
 | **チーム規模** | 7人 |
 | **プロジェクト概要** | フロントエンドコンポーネントの要件定義・設計・実装、デプロイ自動化およびテストコード作成。インフラチームとの連携で品質向上に貢献。 |
 | **担当フェーズ／役割** | • フロントエンドの要件定義、設計、実装<br>• ECSを活用したデプロイ自動化、テストコード作成、コードレビュー<br>• バックエンド連携のデバッグ、インフラチームとの調整<br><br>フロントエンドチーム内でインフラチームとの連携に課題があったため、積極的に橋渡し役を担当。後にフロントエンドチームが撤退した際も、プロパー社員へのスムーズな引継ぎを実施し、体制変更によるプロジェクトへの影響を最小化しました。 |
-| **利用技術** | **サーバ/OS:** Windows、AWS、Linux、Nginx、RHEL<br> **DB:** PostgreSQL<br> **フロント:** React、Next.js、Storybook、emotion、MUI<br> **バック／その他:** Node.js、Spring、Jest、MSW、OpenAPI generator、Docker、ALB、ECS、ECR、S3、CloudFront<br> **言語:** HTML、CSS、TypeScript、Java |
+| **利用技術** | **サーバ/OS:** Windows、AWS、Linux、Nginx、RHEL<br> **DB:** PostgreSQL<br> **フロントエンド:** React、Next.js、Storybook、emotion、MUI<br> **バックエンド／その他:** Node.js、Spring、Jest、MSW、OpenAPI generator、Docker、ALB、ECS、ECR、S3、CloudFront<br> **言語:** HTML、CSS、TypeScript、Java |
 
 ---
 
@@ -108,7 +108,7 @@
 | **チーム規模** | 4人 |
 | **プロジェクト概要** | 動物病院検索サービスのフロントエンド開発およびテストコード作成。API連携と認証機能の実装を担当。 |
 | **担当フェーズ／役割** | • フロントエンド画面開発（React、Next.js）およびテストコード作成<br>• OpenAPI generatorを活用したAPI連携の効率化<br>• NextAuthによる認証機能の実装<br><br>短期プロジェクトながら、再利用性の高いコンポーネント設計と徹底したテストカバレッジにより、品質の高い成果物を短期間で提供。開発効率と保守性を両立させたフロントエンド実装を行いました。 |
-| **利用技術** | **サーバ/OS:** MacOS、AWS、Linux、Nginx<br> **DB:** MySQL<br> **フロント:** React、Next.js、TailwindCSS、Storybook<br> **テスト／その他:** Jest、OpenAPI generator、Docker、Ruby on Rails<br> **言語:** HTML、CSS、TypeScript、Ruby |
+| **利用技術** | **サーバ/OS:** MacOS、AWS、Linux、Nginx<br> **DB:** MySQL<br> **フロントエンド:** React、Next.js、TailwindCSS、Storybook<br> **テスト／その他:** Jest、OpenAPI generator、Docker、Ruby on Rails<br> **言語:** HTML、CSS、TypeScript、Ruby |
 
 ---
 
