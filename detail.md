@@ -29,7 +29,7 @@
 | **チーム規模** | 5人 |
 | **プロジェクト概要** | オンプレミスで運用されていたジョブ実行サービスの AWS 環境への移行設計。StepFunctions によるジョブ実行フローの設計・プロトタイプ実装を担当。 |
 | **担当フェーズ／役割** | • オンプレミスから AWS への移行に伴う要件定義・基本設計<br>• EventBridge を契機とした Step Functions・Lambda によるジョブ実行フローの設計およびプロトタイプ実装（S3 連携含む）<br>• サブリーダーとしての WBS 作成、進捗管理、成果物の動作レビュー<br>• ジョブ設定値の GitHub 化によるドキュメント整備、属人化排除、工数削減<br><br>EventBridge を起点とした AWS 上のジョブ実行フロー設計・実装を主導し、移行設計・進捗管理・ドキュメント整備にも貢献しました。 |
-| **利用技術** | **サーバ/OS:** Windows、AWS、Linux、Apache <br> **DB:** PostgreSQL、SQL Server<br>**クラウド／インフラ:** AWS（Lambda、Step Functions、S3、DynamoDB、ECS）<br>**コンテナ:** Docker（ECS Fargate）、bash（依存性を抑えたジョブ処理）<br>**バックエンド:** Python |
+| **利用技術** | **サーバ/OS:** Windows、AWS、Linux、Apache <br> **DB:** PostgreSQL、SQL Server<br>**クラウド／インフラ:** AWS（Lambda、Step Functions、S3、DynamoDB、ECS）<br>**コンテナ:** Docker（ECS Fargate）、bash（依存性を抑えたジョブ処理）<br>**言語:** Python |
 
 ## 2. システム開発会社 リニューアル
 
@@ -41,7 +41,7 @@
 | **チーム規模** | 2人 |
 | **プロジェクト概要** | システム開発会社のリニューアルに伴うフロントエンド開発。React を使用した SPA の実装を担当。 |
 | **担当フェーズ／役割** | ・大まかな要件定義・デザインをもとにフロントエンドを実装<br>・React + Next.js による SPA を構築し、UI/UX の向上に貢献<br>・microCMS を用いてブログ機能を新規作成<br>・JSDoc を追加し、型補完と保守性を強化<br>・コンポーネント分割を徹底し、再利用性と開発効率を向上<br><br>大まかな要件をもとに React + microCMS でのサイト構築を実施し、保守性と開発効率を高める工夫を行いました。|
-| **利用技術** | **サーバ/OS:** MacOS <br> **フロントエンド:** React、Next.js、TypeScript、TailwindCSS<br> **ヘッドレスCMS:** MicroCMS |
+| **利用技術** | **サーバ/OS:** MacOS <br> **フロントエンド:** React、Next.js、TypeScript、TailwindCSS<br> **ヘッドレスCMS:** MicroCMS <br> **言語:** HTML、CSS、TypeScript |
 
 ## 3. フードデリバリーサービス 保守開発
 
