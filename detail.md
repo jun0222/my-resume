@@ -29,7 +29,7 @@
 | **チーム規模** | 5人 |
 | **プロジェクト概要** | オンプレミスで運用されていたジョブ実行サービスの AWS 環境への移行設計。StepFunctions によるジョブ実行フローの設計・プロトタイプ実装を担当。 |
 | **担当フェーズ／役割** | • オンプレミスから AWS への移行に伴う要件定義・基本設計<br>• EventBridge を契機とした Step Functions・Lambda によるジョブ実行フローの設計およびプロトタイプ実装（S3 連携含む）<br>• サブリーダーとしての WBS 作成、進捗管理、成果物の動作レビュー<br>• ジョブ設定値の GitHub 化によるドキュメント整備、属人化排除、工数削減<br><br>EventBridge を起点とした AWS 上のジョブ実行フロー設計・実装を主導し、移行設計・進捗管理・ドキュメント整備にも貢献しました。 |
-| **利用技術** | **クラウド／インフラ:** AWS（Lambda、Step Functions、S3、DynamoDB、ECS）<br>**コンテナ:** Docker（ECS Fargate）、bash（依存性を抑えたジョブ処理）<br>**ミドルウェア／OS:** Windows、Linux（コンテナ内）、VSCode<br>**言語:** Python |
+| **利用技術** | **サーバ/OS:** Windows、AWS、Linux、Apache <br> **DB:** PostgreSQL、SQL Server<br>**クラウド／インフラ:** AWS（Lambda、Step Functions、S3、DynamoDB、ECS）<br>**コンテナ:** Docker（ECS Fargate）、bash（依存性を抑えたジョブ処理）<br>**バック:** Python |
 
 ## 2. システム開発会社 リニューアル
 
