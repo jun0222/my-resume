@@ -136,4 +136,4 @@
 
 ## 職務経歴詳細
 
-[こちら](detail.md)に詳細をまとめています
+[こちら](https://github.com/jun0222/my-resume/blob/main/detail.md)に詳細をまとめています
