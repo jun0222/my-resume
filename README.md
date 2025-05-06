@@ -50,9 +50,8 @@
 
 **利用技術：**
 
-- AWS（StepFunctions、EventBridge、Lambda、ECS）
-- Python
-- Docker
+- 言語・共通：Python
+- インフラ・サーバレス：AWS（Step Functions、EventBridge、Lambda、ECS）、Docker
 
 #### プログラミング学習サービス 新規開発／保守開発／インフラ構築
 
@@ -82,10 +81,10 @@
 
 **利用技術：**
 
-- React、Recoil、ChakraUI
-- Prisma、PostgreSQL
-- Terraform、Docker、AWS（ECS、ALB、Lambda、CodeCommit、CodePipeline、CodeDeploy、App Runner）
-- TypeScript
+- 言語・共通：TypeScript、Node.js
+- フロントエンド：Next.js、React、Recoil、Chakra UI
+- バックエンド・API：frourio、Fastify、Jest、Prisma、PostgreSQL
+- インフラ・CI/CD：AWS、Terraform、Docker
 
 ### 正社員（2019/05〜2023/03）
 
@@ -109,10 +108,10 @@
 
 **利用技術：**
 
-- React、Storybook
-- Ruby on Rails、RuboCop、RSpec
-- Docker、AWS（ECS、ALB）
-- JavaScript、Ruby、MySQL
+- 言語・共通：JavaScript、Ruby
+- フロントエンド：React、Storybook
+- バックエンド・API：Ruby on Rails、RSpec、MySQL
+- インフラ：AWS（ECS、ALB）、Docker
 
 ## 自己 PR
 
